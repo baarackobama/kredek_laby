@@ -1,0 +1,1 @@
+Console.WrtieLine("Hello world");
