@@ -1,0 +1,14 @@
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.csproj.AssemblyReference.cache
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.AssemblyInfoInputs.cache
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.AssemblyInfo.cs
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.csproj.CoreCompileInputs.cache
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\bin\Debug\netcoreapp3.1\Kredek_PD2.exe
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\bin\Debug\netcoreapp3.1\Kredek_PD2.deps.json
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\bin\Debug\netcoreapp3.1\Kredek_PD2.runtimeconfig.json
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\bin\Debug\netcoreapp3.1\Kredek_PD2.runtimeconfig.dev.json
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\bin\Debug\netcoreapp3.1\Kredek_PD2.dll
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\bin\Debug\netcoreapp3.1\Kredek_PD2.pdb
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.dll
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.pdb
+C:\Users\jczyk\source\repos\Kredek_PD2\Kredek_PD2\obj\Debug\netcoreapp3.1\Kredek_PD2.genruntimeconfig.cache
